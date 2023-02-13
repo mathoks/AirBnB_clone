@@ -57,4 +57,4 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 ## Authors
 
 * **Ikeobodo Mathew** - [718@holbertonschool.com](https://github.com/MCavigli)
-* **Osondu George** - [638@holbertonschool.com](https://github.com/tlvb25)
+* **Osondu George** -(https://github.com/georgexbrown)
